@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/appPlane/static/css/main.a2959d41.chunk.css",
+    "main.js": "/appPlane/static/js/main.f4ac37fb.chunk.js",
+    "main.js.map": "/appPlane/static/js/main.f4ac37fb.chunk.js.map",
+    "runtime-main.js": "/appPlane/static/js/runtime-main.e5380498.js",
+    "runtime-main.js.map": "/appPlane/static/js/runtime-main.e5380498.js.map",
+    "static/css/2.ac1ab58b.chunk.css": "/appPlane/static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.b8dd5c0a.chunk.js": "/appPlane/static/js/2.b8dd5c0a.chunk.js",
+    "static/js/2.b8dd5c0a.chunk.js.map": "/appPlane/static/js/2.b8dd5c0a.chunk.js.map",
+    "index.html": "/appPlane/index.html",
+    "precache-manifest.a1f9878ed2142ace36b010f901dc8685.js": "/appPlane/precache-manifest.a1f9878ed2142ace36b010f901dc8685.js",
+    "service-worker.js": "/appPlane/service-worker.js",
+    "static/css/2.ac1ab58b.chunk.css.map": "/appPlane/static/css/2.ac1ab58b.chunk.css.map",
+    "static/css/main.a2959d41.chunk.css.map": "/appPlane/static/css/main.a2959d41.chunk.css.map",
+    "static/js/2.b8dd5c0a.chunk.js.LICENSE.txt": "/appPlane/static/js/2.b8dd5c0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5380498.js",
+    "static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.b8dd5c0a.chunk.js",
+    "static/css/main.a2959d41.chunk.css",
+    "static/js/main.f4ac37fb.chunk.js"
+  ]
+}
